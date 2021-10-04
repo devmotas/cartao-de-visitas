@@ -1,0 +1,46 @@
+body{
+	margin: 0;
+	padding: 0;
+	width: 400px;
+	height: 300px;
+	margin: auto;
+	margin-top: 50px;
+	
+	}
+
+#fundo{
+	background-image: url(Imagens/Background.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+	border: solid;
+	border-width: 8px 20px 35px 25px;
+	border-color: black;
+	border-radius: 5px ;
+	margin:100px;
+	margin-right: 305px;
+}
+
+#titulo{
+	font-family: 'Courier Prime', monospace;
+	text-indent:15px;
+	font-size: 20px;
+}
+
+a{
+	text-decoration: none;
+	color: black;
+	text-indent: -20px;
+	list-style-position: inside;
+
+}
+#instagram{
+	list-style-image: url("Imagens/Insta.png");
+}
+
+#twitter{
+	list-style-image: url("Imagens/Twitter.png");
+}
+
+#youtube{
+	list-style-image: url("Imagens/Youtube.png");
+}
